@@ -1,34 +1,43 @@
-<a href="https://midnightlab.dev"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=900&pause=400&color=34D399&background=00000000&multiline=true&repeat=false&width=620&height=200&lines=%5B+OK+%5D+Booting+MidnightLab+OS+v26.11;%5B+OK+%5D+Mounting+%2Fdev%2Fstrategist+%28day%29;%5B+OK+%5D+Mounting+%2Fdev%2Fbuilder+%28night%29;%5B+OK+%5D+Loading+AI+experiments%3A+6+found;%3E+whoami;Mayas+%C3%96tegen+%3A%3A+strategist+by+day%2C+builder+by+night;%3E+_" alt="Booting MidnightLab OS" /></a>
+<a href="https://midnightlab.dev"><picture><source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=600&size=52&duration=1600&pause=100000&background=00000000&repeat=false&width=520&height=80&lines=MidnightLab&color=F5F5F4"><img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=600&size=52&duration=1600&pause=100000&background=00000000&repeat=false&width=520&height=80&lines=MidnightLab&color=111111" alt="MidnightLab" /></picture></a>
 
-```console
-mayas@midnightlab:~$ cat about.txt
-  location     Dubai
-  day shift    strategy, connecting business and technology
-  night shift  AI experiments, browser extensions, desktop tools
-  rule         when an idea won't leave me alone, I ship it
-```
+*Strategist by day, builder by night.*
 
-<a href="https://midnightlab.dev"><img src="https://img.shields.io/badge/%3E__midnightlab.dev-000000?style=flat-square&logoColor=34D399&labelColor=000000&color=000000" alt="midnightlab.dev" /></a>
-<img src="https://img.shields.io/badge/status-shipping-34D399?style=flat-square&labelColor=000000" alt="status: shipping" />
-<img src="https://komarev.com/ghpvc/?username=MidnightLabDev&color=22D3EE&style=flat-square&label=visitors" alt="visitors" />
+I connect business and technology. When an idea won't leave me alone, I ship it. Most of what I build lives in the browser: small AI tools that save a minute, a click or a bad sentence. Based in Dubai.
 
-#### `mayas@midnightlab:~$ ls ./projects`
+<br>
 
-| | Project | What it does | Lang |
-|---|---|---|---|
-| `drwx` | [`civitas/`](https://github.com/MidnightLabDev/Civitas) | Psychohistory skill for Claude, inspired by Asimov's Foundation. Model and stress-test societies, institutions and economies. | Python |
-| `drwx` | [`desk-for-hark/`](https://github.com/MidnightLabDev/desk-for-hark) | Unofficial Windows desktop app for Hark, with hotkeys, screenshots, themes and a tray icon. | Rust |
-| `drwx` | [`ai-detector-for-linkedin/`](https://github.com/MidnightLabDev/AI-Detector-for-LinkedIn) | AI detection right inside LinkedIn posts and comments. | JavaScript |
-| `drwx` | [`refine-it/`](https://github.com/MidnightLabDev/RefineIt) | Highlight text in any box, click once, and it rewrites itself in place. | JavaScript |
-| `drwx` | [`dmz-loot-tracker/`](https://github.com/MidnightLabDev/dmz-loot-tracker) | Fan-made loot tracker for MW4 DMZ. Log raids, track your stash, get keep/sell/craft calls. | HTML |
-| `drwx` | [`picklio/`](https://github.com/MidnightLabDev/Picklio) | Browser extension that helps you answer questions faster and smarter. | JavaScript |
+<sub>SELECTED WORK</sub>
 
-#### `mayas@midnightlab:~$ which --all tools`
+---
 
-<img src="https://skillicons.dev/icons?i=js,ts,react,tailwind,vite,html,css,python,rust,nodejs,git&perline=11" alt="Tech stack" />
+**01&nbsp;&nbsp;[Civitas](https://github.com/MidnightLabDev/Civitas)**  
+A psychohistory skill for Claude, inspired by Asimov's Foundation. It models and stress-tests societies, institutions and economies, with every claim tagged by how strong its evidence is.  
+<sub>PYTHON&nbsp;&nbsp;·&nbsp;&nbsp;<a href="https://github.com/MidnightLabDev/Civitas">VIEW REPOSITORY →</a></sub>
 
-#### `mayas@midnightlab:~$ uptime`
+**02&nbsp;&nbsp;[Desk for Hark](https://github.com/MidnightLabDev/desk-for-hark)**  
+An unofficial Windows desktop app for Hark, with global hotkeys, screenshots, themes and a proper tray icon.  
+<sub>RUST&nbsp;&nbsp;·&nbsp;&nbsp;<a href="https://github.com/MidnightLabDev/desk-for-hark">VIEW REPOSITORY →</a></sub>
 
-<img src="https://streak-stats.demolab.com?user=MidnightLabDev&background=000000&border=000000&ring=34D399&fire=34D399&currStreakNum=34D399&sideNums=E5E7EB&currStreakLabel=34D399&sideLabels=9CA3AF&dates=6B7280&stroke=1F2937&hide_border=true&font=JetBrains+Mono" alt="Contribution streak" />
+**03&nbsp;&nbsp;[AI Detector for LinkedIn](https://github.com/MidnightLabDev/AI-Detector-for-LinkedIn)**  
+AI detection right where the writing is: inside LinkedIn posts and comments.  
+<sub>JAVASCRIPT&nbsp;&nbsp;·&nbsp;&nbsp;<a href="https://github.com/MidnightLabDev/AI-Detector-for-LinkedIn">VIEW REPOSITORY →</a></sub>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=1200&pause=2000&color=A78BFA&center=true&vCenter=true&width=500&lines=%3E+exit;Connection+to+midnightlab.dev+closed.+See+you+at+midnight." alt="exit" />
+**04&nbsp;&nbsp;[Refine It!](https://github.com/MidnightLabDev/RefineIt)**  
+Highlight text in any box, click once, and it rewrites itself in place.  
+<sub>JAVASCRIPT&nbsp;&nbsp;·&nbsp;&nbsp;<a href="https://github.com/MidnightLabDev/RefineIt">VIEW REPOSITORY →</a></sub>
+
+**05&nbsp;&nbsp;[DMZ Loot Tracker](https://github.com/MidnightLabDev/dmz-loot-tracker)**  
+A free, fan-made tracker for MW4 DMZ. Log raids, watch your stash, and get keep, sell or craft calls.  
+<sub>HTML&nbsp;&nbsp;·&nbsp;&nbsp;<a href="https://github.com/MidnightLabDev/dmz-loot-tracker">VIEW REPOSITORY →</a></sub>
+
+**06&nbsp;&nbsp;[Picklio](https://github.com/MidnightLabDev/Picklio)**  
+A browser extension for answering questions faster, with more control over how.  
+<sub>JAVASCRIPT&nbsp;&nbsp;·&nbsp;&nbsp;<a href="https://github.com/MidnightLabDev/Picklio">VIEW REPOSITORY →</a></sub>
+
+---
+
+<sub>WORKING WITH</sub>  
+JavaScript, TypeScript, React, Tailwind, Vite, Python, Rust
+
+<sub>ELSEWHERE</sub>  
+[midnightlab.dev](https://midnightlab.dev)
