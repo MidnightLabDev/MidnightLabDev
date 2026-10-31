@@ -34,8 +34,8 @@
 ### Activity
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=MidnightLabDev&show_icons=true&hide_border=true&bg_color=000000&title_color=34D399&icon_color=22D3EE&text_color=E5E7EB&count_private=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MidnightLabDev&layout=compact&hide_border=true&bg_color=000000&title_color=A78BFA&text_color=E5E7EB" alt="Top languages" />
+  <img height="170" src="https://streak-stats.demolab.com?user=MidnightLabDev&background=000000&border=000000&ring=22D3EE&fire=34D399&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=34D399&sideLabels=A78BFA&dates=9CA3AF&stroke=1F2937&hide_border=true" alt="Contribution streak" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MidnightLabDev&theme=github_dark" alt="Repos per language" />
 </p>
 
 <p align="center">
