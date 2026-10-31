@@ -6,6 +6,11 @@ I connect business and technology. When an idea won't leave me alone, I ship it.
 
 <br>
 
+<sub>NOW</sub>  
+Polishing [Desk for Hark](https://github.com/MidnightLabDev/desk-for-hark), a Windows home for Hark, and sketching what ships next.
+
+<br>
+
 <sub>SELECTED WORK</sub>
 
 ---
@@ -22,17 +27,7 @@ An unofficial Windows desktop app for Hark, with global hotkeys, screenshots, th
 AI detection right where the writing is: inside LinkedIn posts and comments.  
 <sub>JAVASCRIPT&nbsp;&nbsp;·&nbsp;&nbsp;<a href="https://github.com/MidnightLabDev/AI-Detector-for-LinkedIn">VIEW REPOSITORY →</a></sub>
 
-**04&nbsp;&nbsp;[Refine It!](https://github.com/MidnightLabDev/RefineIt)**  
-Highlight text in any box, click once, and it rewrites itself in place.  
-<sub>JAVASCRIPT&nbsp;&nbsp;·&nbsp;&nbsp;<a href="https://github.com/MidnightLabDev/RefineIt">VIEW REPOSITORY →</a></sub>
-
-**05&nbsp;&nbsp;[DMZ Loot Tracker](https://github.com/MidnightLabDev/dmz-loot-tracker)**  
-A free, fan-made tracker for MW4 DMZ. Log raids, watch your stash, and get keep, sell or craft calls.  
-<sub>HTML&nbsp;&nbsp;·&nbsp;&nbsp;<a href="https://github.com/MidnightLabDev/dmz-loot-tracker">VIEW REPOSITORY →</a></sub>
-
-**06&nbsp;&nbsp;[Picklio](https://github.com/MidnightLabDev/Picklio)**  
-A browser extension for answering questions faster, with more control over how.  
-<sub>JAVASCRIPT&nbsp;&nbsp;·&nbsp;&nbsp;<a href="https://github.com/MidnightLabDev/Picklio">VIEW REPOSITORY →</a></sub>
+<sub>MORE IN THE PINNED REPOSITORIES BELOW</sub>
 
 ---
 
