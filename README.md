@@ -1,38 +1,39 @@
-<a href="https://midnightlab.dev"><picture><source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=600&size=52&duration=1600&pause=100000&background=00000000&repeat=false&width=520&height=80&lines=MidnightLab&color=F5F5F4"><img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=600&size=52&duration=1600&pause=100000&background=00000000&repeat=false&width=520&height=80&lines=MidnightLab&color=111111" alt="MidnightLab" /></picture></a>
+<p align="center">
+  <a href="https://midnightlab.dev"><img src="./assets/banner.svg" width="100%" alt="MidnightLab: strategist by day, builder by night" /></a>
+</p>
 
-*Strategist by day, builder by night.*
+<p align="center">
+  <sub><code>STATUS: ONLINE</code>&nbsp;&nbsp;<code>NODE: DUBAI</code>&nbsp;&nbsp;<code>MODE: NIGHT SHIFT</code></sub>
+</p>
 
-I connect business and technology. When an idea won't leave me alone, I ship it. Most of what I build lives in the browser: small AI tools that save a minute, a click or a bad sentence. Based in Dubai.
+<p align="center">
+I connect business and technology. When an idea won't leave me alone, I ship it.<br>
+<sub>Operator: Mayas Ötegen</sub>
+</p>
 
 <br>
 
-<sub>NOW</sub>  
-Polishing [Desk for Hark](https://github.com/MidnightLabDev/desk-for-hark), a Windows home for Hark, and sketching what ships next.
+### ◢ Active modules
 
-<br>
+| ID | Module | Function | Core | State |
+|:--|:--|:--|:--|:--|
+| `M-06` | [**Desk for Hark**](https://github.com/MidnightLabDev/desk-for-hark) | Windows desktop shell for Hark: hotkeys, screenshots, themes, tray | Rust | 🟢 `ACTIVE` |
+| `M-05` | [**DMZ Loot Tracker**](https://github.com/MidnightLabDev/dmz-loot-tracker) | Raid log and stash intelligence for MW4 DMZ | HTML | 🔵 `DEPLOYED` |
+| `M-04` | [**Civitas**](https://github.com/MidnightLabDev/Civitas) | Psychohistory engine for Claude: simulate societies and economies | Python | 🔵 `DEPLOYED` |
+| `M-03` | [**AI Detector for LinkedIn**](https://github.com/MidnightLabDev/AI-Detector-for-LinkedIn) | In-feed AI detection for posts and comments | JavaScript | 🔵 `DEPLOYED` |
+| `M-02` | [**Refine It!**](https://github.com/MidnightLabDev/RefineIt) | One-click in-place text rewriting, any text box | JavaScript | 🔵 `DEPLOYED` |
+| `M-01` | [**Picklio**](https://github.com/MidnightLabDev/Picklio) | Question-answering assist layer for the browser | JavaScript | 🔵 `DEPLOYED` |
 
-<sub>SELECTED WORK</sub>
+### ◢ Tech stack
 
----
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,tailwind,vite,python,rust,nodejs,git&theme=dark&perline=9" alt="Tech stack" />
+</p>
 
-**01&nbsp;&nbsp;[Civitas](https://github.com/MidnightLabDev/Civitas)**  
-A psychohistory skill for Claude, inspired by Asimov's Foundation. It models and stress-tests societies, institutions and economies, with every claim tagged by how strong its evidence is.  
-<sub>PYTHON&nbsp;&nbsp;·&nbsp;&nbsp;<a href="https://github.com/MidnightLabDev/Civitas">VIEW REPOSITORY →</a></sub>
+### ◢ Telemetry
 
-**02&nbsp;&nbsp;[Desk for Hark](https://github.com/MidnightLabDev/desk-for-hark)**  
-An unofficial Windows desktop app for Hark, with global hotkeys, screenshots, themes and a proper tray icon.  
-<sub>RUST&nbsp;&nbsp;·&nbsp;&nbsp;<a href="https://github.com/MidnightLabDev/desk-for-hark">VIEW REPOSITORY →</a></sub>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=MidnightLabDev&background=05060A&border=05060A&ring=22D3EE&fire=A78BFA&currStreakNum=E0FBFF&sideNums=E0FBFF&currStreakLabel=22D3EE&sideLabels=7DF9FF&dates=5B6B80&stroke=1E293B&hide_border=true" alt="Contribution streak" />
+</p>
 
-**03&nbsp;&nbsp;[AI Detector for LinkedIn](https://github.com/MidnightLabDev/AI-Detector-for-LinkedIn)**  
-AI detection right where the writing is: inside LinkedIn posts and comments.  
-<sub>JAVASCRIPT&nbsp;&nbsp;·&nbsp;&nbsp;<a href="https://github.com/MidnightLabDev/AI-Detector-for-LinkedIn">VIEW REPOSITORY →</a></sub>
-
-<sub>MORE IN THE PINNED REPOSITORIES BELOW</sub>
-
----
-
-<sub>WORKING WITH</sub>  
-JavaScript, TypeScript, React, Tailwind, Vite, Python, Rust
-
-<sub>ELSEWHERE</sub>  
-[midnightlab.dev](https://midnightlab.dev)
+<p align="center"><sub><code>&gt; END OF TRANSMISSION · midnightlab.dev</code></sub></p>
