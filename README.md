@@ -29,13 +29,13 @@ I connect business and technology. When an idea won't leave me alone, I ship it.
 ### ◢ Tech stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,tailwind,vite,python,rust,nodejs,git&theme=dark&perline=9" alt="Tech stack" />
+  <img src="./assets/modules/stack.svg" width="100%" alt="Stack: Rust, Python, JavaScript, TypeScript, React, Tailwind, Vite, Node, Git" />
 </p>
 
 ### ◢ Telemetry
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=MidnightLabDev&background=05060A&border=05060A&ring=22D3EE&fire=A78BFA&currStreakNum=E0FBFF&sideNums=E0FBFF&currStreakLabel=22D3EE&sideLabels=7DF9FF&dates=5B6B80&stroke=1E293B&hide_border=true" alt="Contribution streak" />
+  <img src="./assets/modules/telemetry.svg" width="100%" alt="Status: since 2025, 6 modules shipped, 1 active, Dubai" />
 </p>
 
 <p align="center"><sub><code>&gt; END OF TRANSMISSION · midnightlab.dev</code></sub></p>
