@@ -15,14 +15,16 @@ I connect business and technology. When an idea won't leave me alone, I ship it.
 
 ### ◢ Active modules
 
-| ID | Module | Function | Core | State |
-|:--|:--|:--|:--|:--|
-| `M-06` | [**Desk for Hark**](https://github.com/MidnightLabDev/desk-for-hark) | Windows desktop shell for Hark: hotkeys, screenshots, themes, tray | Rust | 🟢 `ACTIVE` |
-| `M-05` | [**DMZ Loot Tracker**](https://github.com/MidnightLabDev/dmz-loot-tracker) | Raid log and stash intelligence for MW4 DMZ | HTML | 🔵 `DEPLOYED` |
-| `M-04` | [**Civitas**](https://github.com/MidnightLabDev/Civitas) | Psychohistory engine for Claude: simulate societies and economies | Python | 🔵 `DEPLOYED` |
-| `M-03` | [**AI Detector for LinkedIn**](https://github.com/MidnightLabDev/AI-Detector-for-LinkedIn) | In-feed AI detection for posts and comments | JavaScript | 🔵 `DEPLOYED` |
-| `M-02` | [**Refine It!**](https://github.com/MidnightLabDev/RefineIt) | One-click in-place text rewriting, any text box | JavaScript | 🔵 `DEPLOYED` |
-| `M-01` | [**Picklio**](https://github.com/MidnightLabDev/Picklio) | Question-answering assist layer for the browser | JavaScript | 🔵 `DEPLOYED` |
+<p align="center">
+<a href="https://github.com/MidnightLabDev/desk-for-hark"><img src="./assets/modules/desk-for-hark.svg" width="49%" alt="desk-for-hark" /></a>
+<a href="https://github.com/MidnightLabDev/dmz-loot-tracker"><img src="./assets/modules/dmz-loot-tracker.svg" width="49%" alt="dmz-loot-tracker" /></a>
+<br>
+<a href="https://github.com/MidnightLabDev/Civitas"><img src="./assets/modules/Civitas.svg" width="49%" alt="Civitas" /></a>
+<a href="https://github.com/MidnightLabDev/AI-Detector-for-LinkedIn"><img src="./assets/modules/AI-Detector-for-LinkedIn.svg" width="49%" alt="AI-Detector-for-LinkedIn" /></a>
+<br>
+<a href="https://github.com/MidnightLabDev/RefineIt"><img src="./assets/modules/RefineIt.svg" width="49%" alt="RefineIt" /></a>
+<a href="https://github.com/MidnightLabDev/Picklio"><img src="./assets/modules/Picklio.svg" width="49%" alt="Picklio" /></a>
+</p>
 
 ### ◢ Tech stack
 
